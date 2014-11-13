@@ -14,6 +14,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Java compile files
+*.class
+
 # =========================
 # Operating System Files
 # =========================
