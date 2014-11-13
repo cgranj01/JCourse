@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/jar/pilotes_jdbc/Microsoft SQL Server JDBC Driver 2.0/sqljdbc_2.0/fra/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="D:/jar/comm/javaxcomm/comm.jar"/>
+	<classpathentry kind="lib" path="D:/jar/images.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7_x86"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
